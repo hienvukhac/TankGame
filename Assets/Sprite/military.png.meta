@@ -1,0 +1,2427 @@
+fileFormatVersion: 2
+guid: 28486d1d691de5449b94d4430262cc0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5754707443271948896
+    second: military_0
+  - first:
+      213: -1947198022838785936
+    second: military_1
+  - first:
+      213: 6113551737922007019
+    second: military_2
+  - first:
+      213: 4784225477840937878
+    second: military_3
+  - first:
+      213: 14510110151915665
+    second: military_4
+  - first:
+      213: 6394070154048783812
+    second: military_5
+  - first:
+      213: 1851679964260114263
+    second: military_6
+  - first:
+      213: 8712349511691088706
+    second: military_7
+  - first:
+      213: -3237334500784238950
+    second: military_8
+  - first:
+      213: 1306635671385953790
+    second: military_9
+  - first:
+      213: -2833534329070102708
+    second: military_10
+  - first:
+      213: 6402775572494343048
+    second: military_11
+  - first:
+      213: -7741069268121005001
+    second: military_12
+  - first:
+      213: 5158872975074463516
+    second: military_13
+  - first:
+      213: 8839598339879516490
+    second: military_14
+  - first:
+      213: 5475484215981015174
+    second: military_15
+  - first:
+      213: 3204241667792420072
+    second: military_16
+  - first:
+      213: -8348900187710464046
+    second: military_17
+  - first:
+      213: -3222048858454482212
+    second: military_18
+  - first:
+      213: -9051008881926111387
+    second: military_19
+  - first:
+      213: -4255027208135702061
+    second: military_20
+  - first:
+      213: 8816296769004829878
+    second: military_21
+  - first:
+      213: 397562317802693347
+    second: military_22
+  - first:
+      213: 1799449545904100721
+    second: military_23
+  - first:
+      213: 7933370896267190666
+    second: military_24
+  - first:
+      213: -1069186813370937065
+    second: military_25
+  - first:
+      213: 2853891058897229281
+    second: military_26
+  - first:
+      213: 1216054719028431751
+    second: military_27
+  - first:
+      213: 1827512739491192204
+    second: military_28
+  - first:
+      213: 5602545330772274061
+    second: military_29
+  - first:
+      213: -6455422048109823751
+    second: military_30
+  - first:
+      213: -2905741690764185697
+    second: military_31
+  - first:
+      213: 4245169133900730112
+    second: military_32
+  - first:
+      213: -5853830254623941874
+    second: military_33
+  - first:
+      213: -2112042128009651752
+    second: military_34
+  - first:
+      213: -7725806760968364273
+    second: military_35
+  - first:
+      213: 475152348463870171
+    second: military_36
+  - first:
+      213: 2538204609457993733
+    second: military_37
+  - first:
+      213: -7641074539186643673
+    second: military_38
+  - first:
+      213: -3311702857894565816
+    second: military_39
+  - first:
+      213: -8084694820931114730
+    second: military_40
+  - first:
+      213: -6078716912422221338
+    second: military_41
+  - first:
+      213: -2854937878347190466
+    second: military_42
+  - first:
+      213: -5731428120059292096
+    second: military_43
+  - first:
+      213: -7430799379350919225
+    second: military_44
+  - first:
+      213: -1241850431121098700
+    second: military_45
+  - first:
+      213: 2530872353033763038
+    second: military_46
+  - first:
+      213: -1411300564036703434
+    second: military_47
+  - first:
+      213: 1467089406612886110
+    second: military_48
+  - first:
+      213: -8244294458829599540
+    second: military_49
+  - first:
+      213: 9085887887420012659
+    second: military_50
+  - first:
+      213: -2241098139031221964
+    second: military_51
+  - first:
+      213: 3430628334112893784
+    second: military_52
+  - first:
+      213: 2375921620174213395
+    second: military_53
+  - first:
+      213: 6972931823209300546
+    second: military_54
+  - first:
+      213: -9041246141836914757
+    second: military_55
+  - first:
+      213: 4806505127394889654
+    second: military_56
+  - first:
+      213: -6806889971557781711
+    second: military_57
+  - first:
+      213: 556132622227604291
+    second: military_58
+  - first:
+      213: -7424629183378951915
+    second: military_59
+  - first:
+      213: -4879339542609413058
+    second: military_60
+  - first:
+      213: -4461502838424409000
+    second: military_61
+  - first:
+      213: 2233091712508211307
+    second: military_62
+  - first:
+      213: -5624874005765088367
+    second: military_63
+  - first:
+      213: 5736054312876359865
+    second: military_64
+  - first:
+      213: 3781553827490805449
+    second: military_65
+  - first:
+      213: -8372685790672206991
+    second: military_66
+  - first:
+      213: -9058434693842165158
+    second: military_67
+  - first:
+      213: -2722901844327177307
+    second: military_68
+  - first:
+      213: 85045752126987568
+    second: military_69
+  - first:
+      213: 1379349579790816898
+    second: military_70
+  - first:
+      213: 2411700875208677255
+    second: military_71
+  - first:
+      213: 8216210733152126523
+    second: military_72
+  - first:
+      213: -4669184262814100511
+    second: military_73
+  - first:
+      213: -3433721109082735409
+    second: military_74
+  - first:
+      213: 8979046632940208016
+    second: military_75
+  - first:
+      213: 4820464112072683221
+    second: military_76
+  - first:
+      213: -1988017284596704754
+    second: military_77
+  - first:
+      213: 2732851346446607102
+    second: military_78
+  - first:
+      213: -3309994370740057391
+    second: military_79
+  - first:
+      213: 4677614304827485904
+    second: military_80
+  - first:
+      213: -8682260083716140923
+    second: military_81
+  - first:
+      213: 4509813008256639833
+    second: military_82
+  - first:
+      213: 6183983816864561422
+    second: military_83
+  - first:
+      213: -8768707202950674182
+    second: military_84
+  - first:
+      213: 5571442223034730030
+    second: military_85
+  - first:
+      213: -5791261230384500952
+    second: military_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: military_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 367
+        width: 127
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5aa71f11c2320b0800000000000000
+      internalID: -5754707443271948896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 370
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e95507b92af4e0800000000000000
+      internalID: -1947198022838785936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 347
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef20d62ae2b7d450800000000000000
+      internalID: 6113551737922007019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693251469bbf46240800000000000000
+      internalID: 4784225477840937878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 386
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198b1494edc833000800000000000000
+      internalID: 14510110151915665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 363
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c541098dec4cb850800000000000000
+      internalID: 6394070154048783812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 366
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f9e6bed1d72b910800000000000000
+      internalID: 1851679964260114263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 369
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243356b88bb78e870800000000000000
+      internalID: 8712349511691088706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 373
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e83a57c6da213d0800000000000000
+      internalID: -3237334500784238950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 332
+        width: 118
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef550d3683a122210800000000000000
+      internalID: 1306635671385953790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 283
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d6e85a834da8d0800000000000000
+      internalID: -2833534329070102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 356
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bd217b57a3bd850800000000000000
+      internalID: 6402775572494343048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 349
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73454fbb382329490800000000000000
+      internalID: -7741069268121005001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 322
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f0da053aff79740800000000000000
+      internalID: 5158872975074463516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49b6ad1bdf8caa70800000000000000
+      internalID: 8839598339879516490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 326
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6808ec252e3dcfb40800000000000000
+      internalID: 5475484215981015174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 332
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecb54fe1d0c77c20800000000000000
+      internalID: 3204241667792420072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df535e738fb22c80800000000000000
+      internalID: -8348900187710464046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 302
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd22ed662abf843d0800000000000000
+      internalID: -3222048858454482212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 307
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f73ed406b546280800000000000000
+      internalID: -9051008881926111387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 306
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9037d5c4b13f4c0800000000000000
+      internalID: -4255027208135702061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 315
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcf4fe5337c95a70800000000000000
+      internalID: 8816296769004829878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 306
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2e5b852dc648500800000000000000
+      internalID: 397562317802693347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 277
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751adef3dde8f810800000000000000
+      internalID: 1799449545904100721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 290
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ad6f1ccef81e60800000000000000
+      internalID: 7933370896267190666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 296
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7115e7e024c7921f0800000000000000
+      internalID: -1069186813370937065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 86
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59b392cce0b9720800000000000000
+      internalID: 2853891058897229281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 264
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b8023f25b40e010800000000000000
+      internalID: 1216054719028431751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 269
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d9fdb6721ac5910800000000000000
+      internalID: 1827512739491192204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 266
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b64b67b4d30cd40800000000000000
+      internalID: 5602545330772274061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8703b79dbb966a0800000000000000
+      internalID: -6455422048109823751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 288
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f25f8d35bbca7d0800000000000000
+      internalID: -2905741690764185697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 271
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f0b9dd5ded9ea30800000000000000
+      internalID: 4245169133900730112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 280
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b94b9f56403cea0800000000000000
+      internalID: -5853830254623941874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_34
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 245
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d91359efd480b2e0800000000000000
+      internalID: -2112042128009651752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 204
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5b291fab68c490800000000000000
+      internalID: -7725806760968364273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b1602b84189600800000000000000
+      internalID: 475152348463870171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 202
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b002f4a3893320800000000000000
+      internalID: 2538204609457993733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 207
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9f75d03375f590800000000000000
+      internalID: -7641074539186643673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 208
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8486c810cc77a02d0800000000000000
+      internalID: -3311702857894565816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 209
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e5f815e46dcf80800000000000000
+      internalID: -8084694820931114730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 211
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e90ae0bc2f04aba0800000000000000
+      internalID: -6078716912422221338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fee4130293168d0800000000000000
+      internalID: -2854937878347190466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 251
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465e20cd70e570b0800000000000000
+      internalID: -5731428120059292096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_44
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 248
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c76894a55f70e890800000000000000
+      internalID: -7430799379350919225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_45
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 247
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4387cdccc9f04cee0800000000000000
+      internalID: -1241850431121098700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_46
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 247
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed83f66fef67f1320800000000000000
+      internalID: 2530872353033763038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_47
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 252
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ba8494d9d0a6ce0800000000000000
+      internalID: -1411300564036703434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 216
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5256e6da062c5410800000000000000
+      internalID: 1467089406612886110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 203
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8dbdaed1669d80800000000000000
+      internalID: -8244294458829599540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 213
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b1bef4ee871e70800000000000000
+      internalID: 9085887887420012659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 214
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439414ccd1506e0e0800000000000000
+      internalID: -2241098139031221964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 204
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b603b2b4a0c9f20800000000000000
+      internalID: 3430628334112893784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_53
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 207
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31197a81028f8f020800000000000000
+      internalID: 2375921620174213395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_54
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 203
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242486d8c84d4c060800000000000000
+      internalID: 6972931823209300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 148
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf80fc598a078280800000000000000
+      internalID: -9041246141836914757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 149
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf477982f224b240800000000000000
+      internalID: 4806505127394889654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 150
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f2124a2a11981a0800000000000000
+      internalID: -6806889971557781711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 149
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34302e36ca7c7b700800000000000000
+      internalID: 556132622227604291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 151
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511f2b7581b66f890800000000000000
+      internalID: -7424629183378951915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 151
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cbf30b98a194cb0800000000000000
+      internalID: -4879339542609413058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 150
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce0577ece8512c0800000000000000
+      internalID: -4461502838424409000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 171
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60bbe2c4198dfe10800000000000000
+      internalID: 2233091712508211307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 166
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1b04c4ee60f1b0800000000000000
+      internalID: -5624874005765088367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c753b10f8a9f40800000000000000
+      internalID: 5736054312876359865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_65
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 158
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6bb9aab27ca7430800000000000000
+      internalID: 3781553827490805449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_66
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 152
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c50f32ae3ecb80800000000000000
+      internalID: -8372685790672206991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 68
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52a67cb3a9f94280800000000000000
+      internalID: -9058434693842165158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 67
+        width: 131
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a36f9af23f463ad0800000000000000
+      internalID: -2722901844327177307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_69
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 134
+        width: 114
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5f2539a42e2100800000000000000
+      internalID: 85045752126987568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 123
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286148c722f642310800000000000000
+      internalID: 1379349579790816898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_71
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 73
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787df431b25187120800000000000000
+      internalID: 2411700875208677255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_72
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 117
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c8456128d50270800000000000000
+      internalID: 8216210733152126523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_73
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 115
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e31f10c6a9b33fb0800000000000000
+      internalID: -4669184262814100511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_74
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 76
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccfc5b08d8f850d0800000000000000
+      internalID: -3433721109082735409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_75
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 76
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f7112f65bfb9c70800000000000000
+      internalID: 8979046632940208016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_76
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 70
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de6c9ce19ab5e240800000000000000
+      internalID: 4820464112072683221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_77
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 67
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ad64800d42964e0800000000000000
+      internalID: -1988017284596704754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 187
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2e5e002d90de520800000000000000
+      internalID: 2732851346446607102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 13
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0f7b28a98012d0800000000000000
+      internalID: -3309994370740057391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 49
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de278b5d693ae040800000000000000
+      internalID: 4677614304827485904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_81
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 59
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580db86547a628780800000000000000
+      internalID: -8682260083716140923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 6
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953a2987903169e30800000000000000
+      internalID: 4509813008256639833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_83
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 11
+        width: 135
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09f9fc648ce1d550800000000000000
+      internalID: 6183983816864561422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_84
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af847bce14b4f4680800000000000000
+      internalID: -8768707202950674182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_85
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 18
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26099ede2db15d40800000000000000
+      internalID: 5571442223034730030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fa079289e41afa0800000000000000
+      internalID: -5791261230384500952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_87
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 15
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a8d4dbf6a31e4cac2737bd2cc3af2
+      internalID: -1128521310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: military_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2120fc52c7a95594b964bb54241b6616
+      internalID: 268861827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47f40915a6e1ce3449e3adf1c4980d86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":10.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      military_0: -5754707443271948896
+      military_1: -1947198022838785936
+      military_10: -2833534329070102708
+      military_11: 6402775572494343048
+      military_12: -7741069268121005001
+      military_13: 5158872975074463516
+      military_14: 8839598339879516490
+      military_15: 5475484215981015174
+      military_16: 3204241667792420072
+      military_17: -8348900187710464046
+      military_18: -3222048858454482212
+      military_19: -9051008881926111387
+      military_2: 6113551737922007019
+      military_20: -4255027208135702061
+      military_21: 8816296769004829878
+      military_22: 397562317802693347
+      military_23: 1799449545904100721
+      military_24: 7933370896267190666
+      military_25: -1069186813370937065
+      military_26: 2853891058897229281
+      military_27: 1216054719028431751
+      military_28: 1827512739491192204
+      military_29: 5602545330772274061
+      military_3: 4784225477840937878
+      military_30: -6455422048109823751
+      military_31: -2905741690764185697
+      military_32: 4245169133900730112
+      military_33: -5853830254623941874
+      military_34: -2112042128009651752
+      military_35: -7725806760968364273
+      military_36: 475152348463870171
+      military_37: 2538204609457993733
+      military_38: -7641074539186643673
+      military_39: -3311702857894565816
+      military_4: 14510110151915665
+      military_40: -8084694820931114730
+      military_41: -6078716912422221338
+      military_42: -2854937878347190466
+      military_43: -5731428120059292096
+      military_44: -7430799379350919225
+      military_45: -1241850431121098700
+      military_46: 2530872353033763038
+      military_47: -1411300564036703434
+      military_48: 1467089406612886110
+      military_49: -8244294458829599540
+      military_5: 6394070154048783812
+      military_50: 9085887887420012659
+      military_51: -2241098139031221964
+      military_52: 3430628334112893784
+      military_53: 2375921620174213395
+      military_54: 6972931823209300546
+      military_55: -9041246141836914757
+      military_56: 4806505127394889654
+      military_57: -6806889971557781711
+      military_58: 556132622227604291
+      military_59: -7424629183378951915
+      military_6: 1851679964260114263
+      military_60: -4879339542609413058
+      military_61: -4461502838424409000
+      military_62: 2233091712508211307
+      military_63: -5624874005765088367
+      military_64: 5736054312876359865
+      military_65: 3781553827490805449
+      military_66: -8372685790672206991
+      military_67: -9058434693842165158
+      military_68: -2722901844327177307
+      military_69: 85045752126987568
+      military_7: 8712349511691088706
+      military_70: 1379349579790816898
+      military_71: 2411700875208677255
+      military_72: 8216210733152126523
+      military_73: -4669184262814100511
+      military_74: -3433721109082735409
+      military_75: 8979046632940208016
+      military_76: 4820464112072683221
+      military_77: -1988017284596704754
+      military_78: 2732851346446607102
+      military_79: -3309994370740057391
+      military_8: -3237334500784238950
+      military_80: 4677614304827485904
+      military_81: -8682260083716140923
+      military_82: 4509813008256639833
+      military_83: 6183983816864561422
+      military_84: -8768707202950674182
+      military_85: 5571442223034730030
+      military_86: -5791261230384500952
+      military_87: -1128521310
+      military_88: 268861827
+      military_9: 1306635671385953790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
